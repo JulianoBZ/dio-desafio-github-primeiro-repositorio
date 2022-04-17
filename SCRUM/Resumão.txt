@@ -1,0 +1,4 @@
+O SCRUM é um método de desenvolvimento de projeto onde não existe hierarquia, mas sim funções entre o PO, SM e Time Dev.
+O PO é o responsável por entender a demanda do cliente (Épico) e passar para o SM e Time Dev, em uma reunião de planejamento, onde serão definidos os Sprints a serem feitos.
+O SM é o responsável por "facilitar" a vida do time dev, resolvendo problemas e gerenciando vários times, caso seja necessária a divisão de trabalho.
+O Time Dev é quem desenvolve e bota a mão na massa, sendo guiados pelo SM e as vezes participando de reuniões com o PO para verificar se o projeto está de acordo com a demanda.

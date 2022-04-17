@@ -1,0 +1,3 @@
+O git é uma ferramenta de versionamento de projeto, você pode modificar e "empurrar" para a nuvem, versões de projetos, onde eu posso fazer uma coisa
+e você pode expandir essa coisa, ou fazer de um jeito diferente, e enviar como versão para a nuvem, criando um histórico de modificações e 
+histórico de versões na nuvem.
